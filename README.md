@@ -1,2 +1,2 @@
 # Study-Inheritance-Java
-Dokumentasi belajar java OOP 
+Dokumentasi belajar java OOP  
